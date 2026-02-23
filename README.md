@@ -6,13 +6,6 @@ In multi-material 3D printing, frequent transitions between material zones reduc
 
 <img width="1920" height="1080" alt="Pipeline" src="https://github.com/user-attachments/assets/dfd1ced2-557b-449a-9754-79c937bcbebe" />
 
-Our approach combines:
-
-- **Simulated Annealing (SA)** for strong local optimization  
-- **Genetic Algorithm (GA)** for global sequence evolution  
-- **Neural Network (FusionNet)** to predict efficient operation sequences  
-
-The toolpath is modeled as a **Hamiltonian path on a grid**, and optimized using local reconfiguration operations (flip & transpose).
 
 ## Key Idea
 
