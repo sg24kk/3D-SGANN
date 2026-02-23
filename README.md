@@ -13,8 +13,6 @@ Our approach combines:
 - **Neural Network (FusionNet)** to predict efficient operation sequences  
 
 The toolpath is modeled as a **Hamiltonian path on a grid**, and optimized using local reconfiguration operations (flip & transpose).
-[transpose.pdf](https://github.com/user-attachments/files/25499999/transpose.pdf)
-[flip.pdf](https://github.com/user-attachments/files/25500001/flip.pdf)
 
 ## Key Idea
 
